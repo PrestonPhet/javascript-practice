@@ -1,10 +1,12 @@
-let goog = "john";
-const age = "age";
-console.log(goog);
+console.log("Supercalifragilisticexpialidocious".length);
 
 
-/*
-sadasdasd
-asdasdasda
-sadasdasda
- */
+const number = 3;
+const bigInt = 34453534n;
+
+console.log(number)
+console.log(bigInt)
+
+
+console.log(typeof 3);
+console.log(typeof 34453534n)
