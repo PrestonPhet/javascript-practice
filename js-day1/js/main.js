@@ -1,10 +1,10 @@
-let goog = "john";
-const age = "age";
-console.log(goog);
+// hi
+/* sdasdasdasdasdassadsa
+asdasdasdasdasdasdasda
+sadasdasdasdadasdasdads
+*/
+let name1 = 'Preston'
+let food = 'Pho'
 
-
-/*
-sadasdasd
-asdasdasda
-sadasdasda
- */
+console.log(name1)
+console.log(food)
